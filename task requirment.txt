@@ -1,0 +1,8 @@
+student task
+
+add: id must be uniqe number for each student && name of student && array of degrees and total of them store in a new var&& comment "optional" .
+
+read: read student file.
+
+list: name && total && comment
+
